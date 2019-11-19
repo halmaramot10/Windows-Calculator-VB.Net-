@@ -1,0 +1,11 @@
+C:\Users\HAZEL\Desktop\VB.NET Programs\Calc101919\Calc101919\bin\Debug\Calc101919.exe.config
+C:\Users\HAZEL\Desktop\VB.NET Programs\Calc101919\Calc101919\bin\Debug\Calc101919.exe
+C:\Users\HAZEL\Desktop\VB.NET Programs\Calc101919\Calc101919\bin\Debug\Calc101919.pdb
+C:\Users\HAZEL\Desktop\VB.NET Programs\Calc101919\Calc101919\bin\Debug\Calc101919.xml
+C:\Users\HAZEL\Desktop\VB.NET Programs\Calc101919\Calc101919\obj\Debug\Calc101919.Form1.resources
+C:\Users\HAZEL\Desktop\VB.NET Programs\Calc101919\Calc101919\obj\Debug\Calc101919.Resources.resources
+C:\Users\HAZEL\Desktop\VB.NET Programs\Calc101919\Calc101919\obj\Debug\Calc101919.vbproj.GenerateResource.cache
+C:\Users\HAZEL\Desktop\VB.NET Programs\Calc101919\Calc101919\obj\Debug\Calc101919.exe
+C:\Users\HAZEL\Desktop\VB.NET Programs\Calc101919\Calc101919\obj\Debug\Calc101919.xml
+C:\Users\HAZEL\Desktop\VB.NET Programs\Calc101919\Calc101919\obj\Debug\Calc101919.pdb
+C:\Users\HAZEL\Desktop\VB.NET Programs\Calc101919\Calc101919\obj\Debug\Calc101919.vbprojAssemblyReference.cache
